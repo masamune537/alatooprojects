@@ -1,0 +1,5 @@
+myfamily = ("mother", "father", "sister", "brother", "sister")
+print(type(myfamily))
+myfamily.append("me")
+myfamily.pop(3)
+print(myfamily)
